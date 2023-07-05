@@ -1,0 +1,11 @@
+COMPUTER SCIENCE
+CSE 1223: Computer Programming In Java
+CSE 2221: Software 1: Software Components
+
+MATHEMATICS
+MATH 2568: Linear Algebra
+MATH 2153: Multivariable Calculus
+STAT 3470.02: Probability and Statistics for Engineers
+
+BUSINESS/ECONOMICS
+BUSMHR 2500: Entrepreneurship
