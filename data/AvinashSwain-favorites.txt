@@ -6,6 +6,8 @@ Animal: Panda
 Subject: Mathematics
 Sport: Wrestling
 Food: Chicken
+Snack: Trail Mix
+Beverage: Lemonade
 Cuisine: Mediterranean and Indian
 Takeout/Fastfood Restaurants: Chipotle, Brassica
 Dine-In Restaurants: Aab India, KPot Korean Barbeque, Bonifacio
