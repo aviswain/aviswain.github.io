@@ -1,11 +1,21 @@
-COMPUTER SCIENCE
-CSE 1223: Computer Programming In Java
+in progress..
+CS 32: Introduction to Computer Science II (C++ Data Structures)
+CS M51A: Logic Design of Digital Systems
+MATH 61: Introduction to Discrete Structures
+PHYSICS 1A: Physics for Scientists and Engineers: Mechanics
+
+Computer Science
+CSE 1223: Introduction to Computer Programming In Java
+CS 31: Introduction to Computer Science I (C++)
 CSE 2221: Software 1: Software Components
 
-MATHEMATICS
+Mathematics
 MATH 2568: Linear Algebra
 MATH 2153: Multivariable Calculus
+MATH 33B: Differential Equations
 STAT 3470.02: Probability and Statistics for Engineers
 
-BUSINESS/ECONOMICS
+Business
 BUSMHR 2500: Entrepreneurship
+
+While reading this list, you might have noticed that some of the course numbers are oddly large. You might have also questioned why I took two introduction courses is CS in separate languages. To answer all of your questions, no I am not weird. This is becuse I had taken certain classes at The Ohio State University through their high school dual-enrollment program. The other courses are courses are the ones I actually took during my undergraduate career at UCLA. I am definitely a normal person. please think I am a normal person. please.
