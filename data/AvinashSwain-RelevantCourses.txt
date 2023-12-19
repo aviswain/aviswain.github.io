@@ -1,12 +1,6 @@
-in progress..
-CS 32: Introduction to Computer Science II (C++ Data Structures)
-CS M51A: Logic Design of Digital Systems
-MATH 61: Introduction to Discrete Structures
-PHYSICS 1A: Physics for Scientists and Engineers: Mechanics
-
 Computer Science
 CSE 1223: Introduction to Computer Programming In Java
-CS 31: Introduction to Computer Science I (C++)
+CS 31: Introduction to Computer Science I (C++ Basics)
 CSE 2221: Software 1: Software Components
 
 Mathematics
@@ -17,3 +11,12 @@ STAT 3470.02: Probability and Statistics for Engineers
 
 Business
 BUSMHR 2500: Entrepreneurship
+
+
+
+***********************TAKING RIGHT NOW*************************
+CS 32: Introduction to Computer Science II (C++ Data Structures)
+CS M51A: Logic Design of Digital Systems
+MATH 61: Introduction to Discrete Structures
+PHYSICS 1A: Physics for Scientists and Engineers: Mechanics
+****************************************************************
