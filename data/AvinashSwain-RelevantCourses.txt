@@ -17,5 +17,3 @@ STAT 3470.02: Probability and Statistics for Engineers
 
 Business
 BUSMHR 2500: Entrepreneurship
-
-While reading this list, you might have noticed that some of the course numbers are oddly large. You might have also questioned why I took two introduction courses is CS in separate languages. To answer all of your questions, no I am not weird. This is becuse I had taken certain classes at The Ohio State University through their high school dual-enrollment program. The other courses are courses are the ones I actually took during my undergraduate career at UCLA. I am definitely a normal person. please think I am a normal person. please.
