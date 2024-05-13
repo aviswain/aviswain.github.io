@@ -1,5 +1,5 @@
 # Personal Webpage
 aviswain.github.io
 
-ideas:
-- "taking notes on many things" (notes is a hyperlink to Obsidian page)
+going to add:
+- "taking notes on many things" under the Now: section (notes is a hyperlink to Obsidian page)
