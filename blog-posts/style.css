@@ -131,3 +131,19 @@ li {
 mark {
     background: yellow;
 }
+
+a.internal-link {
+  color: #3e9fff;
+  text-decoration: none;
+}
+
+a.internal-link:hover {
+  color: rgba(0,122,255,.5);
+}
+
+/* Remove the pseudo-elements that create the background and underline */
+a.internal-link:before,
+a.internal-link:after {
+  content: none; /* Remove any content */
+  box-shadow: none; /* Remove any box shadows */
+}
